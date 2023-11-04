@@ -1,0 +1,30 @@
+.header {
+    text-align: left;
+}
+
+.custom-btn-toolbar {
+    display: inline !important;
+}
+
+.custom-btn-toolbar > .btn {
+    margin-right: 1rem;
+}
+
+.navigation.container {
+    text-align: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+}
+
+.window.container {
+    text-align: left;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    max-width: 100%;
+}
